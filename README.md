@@ -7,7 +7,7 @@ A set of tootkit for dealing with COI amplicons using Cyclone sequencing platfor
 ### INSTALLATION
 - Clone from github
 ```bash
-$ git clone https://github.com/comery/CycCOI.git
+$ git clone https://github.com/BioEarthDigital/CycCOI.git
 ```
 ### Requirements 
 #### (1) python modules
